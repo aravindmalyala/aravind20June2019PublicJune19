@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARAVINDMSOLUTION", "ARAVINDMSOLUTION.csproj", "{63EB83A3-D5A1-4FE4-AAD6-FBA27A31B935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectM", "..\UnitTestProjectM\UnitTestProjectM.csproj", "{F95EFC78-EA5B-4525-9CA7-70A6663C8104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63EB83A3-D5A1-4FE4-AAD6-FBA27A31B935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EB83A3-D5A1-4FE4-AAD6-FBA27A31B935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EB83A3-D5A1-4FE4-AAD6-FBA27A31B935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EB83A3-D5A1-4FE4-AAD6-FBA27A31B935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95EFC78-EA5B-4525-9CA7-70A6663C8104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95EFC78-EA5B-4525-9CA7-70A6663C8104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95EFC78-EA5B-4525-9CA7-70A6663C8104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95EFC78-EA5B-4525-9CA7-70A6663C8104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD84341-5645-4D5A-8081-8946609D2A7D}
+	EndGlobalSection
+EndGlobal

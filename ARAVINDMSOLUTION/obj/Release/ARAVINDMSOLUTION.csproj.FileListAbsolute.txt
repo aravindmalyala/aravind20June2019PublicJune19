@@ -1,0 +1,12 @@
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\bin\Release\ARAVINDMSOLUTION.exe.config
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\bin\Release\ARAVINDMSOLUTION.exe
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\bin\Release\ARAVINDMSOLUTION.pdb
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\bin\Release\Newtonsoft.Json.dll
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\bin\Release\Newtonsoft.Json.xml
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\obj\Release\ARAVINDMSOLUTION.csproj.CoreCompileInputs.cache
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\obj\Release\ARAVINDMSOLUTION.csproj.CopyComplete
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\obj\Release\ARAVINDMSOLUTION.exe
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\obj\Release\ARAVINDMSOLUTION.pdb
+C:\Users\Y520T\source\repos\ARAVINDMSOLUTION\obj\Release\ARAVINDMSOLUTION.csprojAssemblyReference.cache
